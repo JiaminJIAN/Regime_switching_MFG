@@ -1,6 +1,6 @@
 ## LQG Mean Field Games with a Markov chain as its common noise
 
-- [Matlab](https://github.com/JiaminJIAN/Regime_switching_MFG/blob/main/Regime_switching_MFG.m): the code of numerical analysis
+- [Matlab code](https://github.com/JiaminJIAN/Regime_switching_MFG/blob/main/Regime_switching_MFG.m): the code of numerical analysis
 - [Generic player](https://github.com/JiaminJIAN/Regime_switching_MFG/blob/main/Figures/Value_nu.pdf): Value function, optimal control and conditional second moment of the generic player
 - [a](https://github.com/JiaminJIAN/Regime_switching_MFG/blob/main/Figures/a_y.pdf): coefficient function a in Riccati system
 - [b](https://github.com/JiaminJIAN/Regime_switching_MFG/blob/main/Figures/b_y.pdf): coefficient function b in Riccati system

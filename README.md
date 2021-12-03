@@ -1,4 +1,4 @@
-## Regime switching mean field games with quadratic costs
+## LQG Mean Field Games with a Markov chain as its common noise
 
 - [Matlab](https://github.com/JiaminJIAN/Regime_switching_MFG/blob/main/Regime_switching_MFG.m): the code of numerical analysis
 - [mu](https://github.com/JiaminJIAN/Regime_switching_MFG/blob/main/Figures/mu.pdf): conditional mean of the population density

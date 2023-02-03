@@ -1,4 +1,4 @@
-## LQG Mean Field Games with a Markov chain as its common noise
+## The convergence rate of the equilibrium measure for the hybrid LQG Mean Field Game
 
 - [Matlab code](https://github.com/JiaminJIAN/Regime_switching_MFG/blob/main/Regime_switching_MFG.m): the code of numerical analysis
 - [Generic player](https://github.com/JiaminJIAN/Regime_switching_MFG/blob/main/Figures/Value_nu.pdf): Value function, optimal control and conditional second moment of the generic player
